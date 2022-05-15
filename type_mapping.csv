@@ -1,0 +1,132 @@
+type,type.map
+SingleFamily,1
+Condo,2
+Townhouse,3
+Unknown,4
+MultiFamily,5
+MobileManufactured,6
+VacantLand,7
+Apartment,8
+Single Family,9
+Cooperative,10
+MFD-F,11
+Residential Lot,12
+2 Story,13
+Duplex,14
+Acreage,15
+3 Story,16
+"3 Story, Duplex",16
+31,16
+Manufactured Home,16
+Hi-Rise (9+),16
+Mid-Rise (4-8),16
+Top Floor,16
+"Detached, 2 Story",16
+"Luxury, 2 Level",16
+1 Story,16
+RESIDENTIAL,16
+Vacant Land,16
+"1 Level, Top Floor",16
+"Flats, Duplex",16
+Junior,16
+"RURLRES, RECREAT",16
+"1 Level, Low-Rise (1-3), Unit Above",16
+2 Level,16
+"2 Story, Duplex",16
+"2 Story, Full",16
+"3 Level, Live/Work",16
+"3 Story, Triplex",16
+4+ Story,16
+ACREAGE,16
+Apartments,16
+"Detached, 3 Story",16
+Double Wide,16
+"Flats, 3 Story",16
+Fourplex,16
+"Hi-Rise (9+), Luxury",16
+"Luxury, New Construction, Mid-Rise (4-8)",16
+"Top Floor, 2 Level",16
+"1 Level, Flat, Low-Rise (1-3)",16
+"1 Level, Flat, Low-Rise (1-3), Unit Above",16
+"1 Level, Low-Rise (1-3), Ground Floor, Semi-Attached",16
+"1 Level, Low-Rise (1-3), Unit Above, Ground Floor",16
+"1 Level, Luxury, Low-Rise (1-3), End Unit",16
+"1 Level, Luxury, New Construction, Top Floor, Penthouse",16
+"1 Level, Mid-Rise (4-8), Unit Below, End Unit, Unit Above",16
+"1 Level, Top Floor, Low-Rise (1-3)",16
+"1 Level, Top Floor, Unit Below, Low-Rise (1-3), Full",16
+"1 Level, Unit Above, Ground Floor",16
+"1 Level, Unit Below, Flat, Low-Rise (1-3), Unit Above, Attached",16
+"2 Level, Detached",16
+"2 Level, Live/Work",16
+"2 Story, Fixer Upper",16
+"2 Story, Full, Attached",16
+"2 Story, Split Level, Semi-Attached",16
+2+ RESIDENCES,16
+"3 Story, Duplex, House & Apartments, Townhouses",16
+4 Story,16
+Agricultural,16
+Attached,16
+Condominium,16
+Detached,16
+"Detached, 1 Story",16
+"Detached, 4+ Story",16
+"Detached, Full",16
+"Detached, Split Level",16
+Flat,16
+"Flat, Attached",16
+"Flat, Low-Rise (1-3)",16
+"Flat, Low-Rise (1-3), Unit Above",16
+"Flat, Unit Above",16
+"Flats, 3 Story, Duplex",16
+"Flats, 3 Story, Triplex",16
+"Full, Semi-Attached",16
+"Hi-Rise (9+), Luxury, Flat, End Unit",16
+"Hi-Rise (9+), Unit Above",16
+LAND W/STRUCTURE,16
+"Low-Rise (1-3), Full, Unit Above",16
+"Low-Rise (1-3), Live/Work",16
+Luxury,16
+"Luxury, Low-Rise (1-3)",16
+"Luxury, Mid-Rise (4-8)",16
+"Luxury, Mid-Rise (4-8), Townhouse, End Unit, Unit Above, 3 Level, Attached, Ground Floor, Live/Work",16
+"Luxury, New Construction, Mid-Rise (4-8), Top Floor, Townhouse, 2 Level, Penthouse",16
+"Luxury, Top Floor, Low-Rise (1-3)",16
+"Luxury, Top Floor, Low-Rise (1-3), Detached",16
+"Luxury, Townhouse",16
+"Luxury, Townhouse, 2 Level",16
+"Luxury, Townhouse, Low-Rise (1-3), Penthouse",16
+"Luxury, Unit Below, Low-Rise (1-3)",16
+Manufactured on Land,16
+"Mid-Rise (4-8), End Unit",16
+"Mid-Rise (4-8), Top Floor, 2 Level",16
+"Mid-Rise (4-8), Top Floor, Unit Below",16
+"Mid-Rise (4-8), Unit Below, 2 Level, Unit Above",16
+"Mid-Rise (4-8), Unit Below, Unit Above, 3 Level",16
+Mobile Home,16
+"New Construction, Low-Rise (1-3)",16
+"New Construction, Mid-Rise (4-8), Unit Above, 4+ Level",16
+One to Five Acres,16
+OTHER,16
+Penthouse,16
+Ranch,16
+RANCH,16
+Recreational,16
+Residential,16
+Residential Income,16
+"RURLRES, RECREAT, MULTI",16
+SINGLE,16
+"SINGLE, AGRI/LV",16
+Split Level,16
+Studio,16
+"Top Floor, 2 Level, Low-Rise (1-3)",16
+"Top Floor, 2 Level, Semi-Attached",16
+"Top Floor, Flat, Full, Unit Above, Penthouse",16
+"Top Floor, Flat, Low-Rise (1-3)",16
+"Top Floor, Low-Rise (1-3)",16
+"Top Floor, Studio",16
+"Top Floor, Unit Below, 2 Level, Low-Rise (1-3)",16
+"Townhouse, Low-Rise (1-3)",16
+Triplex,16
+"Unit Below, 2 Level, Detached",16
+"Unit Below, Flat, Unit Above",16

@@ -1,0 +1,250 @@
+bedrooms,bedrooms.map
+0,0
+1,1
+2,2
+3,3
+4,4
+5,5
+6,6
+7,7+
+8,7+
+9,7+
+10,7+
+11,7+
+12,7+
+14,7+
+15,7+
+16,7+
+18,7+
+19,7+
+20,7+
+21,7+
+22,7+
+24,7+
+26,7+
+27,7+
+29,7+
+31,7+
+Walk-in Closet,OTHER
+Master Suite / Retreat,OTHER
+Ground Floor Bedroom,OTHER
+Master Bedroom on Ground Floor,OTHER
+More than One Bedroom on Ground Floor,OTHER
+More than One Master Bedroom,OTHER
+Master Suite / Retreate - 2+,OTHER
+Loft Bedroom,OTHER
+Reverse Floor Plan,OTHER
+Inverted Floor Plan,OTHER
+More than One Master Bedroom on Ground Floor,OTHER
+"Master Suite / Retreat, Walk-in Closet",OTHER
+"Ground Floor Bedroom, Walk-in Closet",OTHER
+"Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor",OTHER
+"Master Bedroom on Ground Floor, Walk-in Closet",OTHER
+"Ground Floor Bedroom, Master Suite / Retreat",OTHER
+"Ground Floor Bedroom, More than One Bedroom on Ground Floor",OTHER
+"Walk-in Closet, More than One Master Bedroom",OTHER
+"Master Bedroom on Ground Floor, Master Suite / Retreat",OTHER
+"Walk-in Closet, Master Suite / Retreate - 2+",OTHER
+"More than One Bedroom on Ground Floor, Walk-in Closet",OTHER
+"Master Suite / Retreat, More than One Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, More than One Master Bedroom",OTHER
+"Master Bedroom on Ground Floor, More than One Master Bedroom",OTHER
+"Loft Bedroom, Walk-in Closet",OTHER
+"Master Suite / Retreat, More than One Master Bedroom",OTHER
+"Ground Floor Bedroom, Master Suite / Retreate - 2+",OTHER
+"Walk-in Closet, More than One Master Bedroom on Ground Floor",OTHER
+"Loft Bedroom, Master Suite / Retreat",OTHER
+"More than One Master Bedroom, Master Suite / Retreate - 2+",OTHER
+"Master Bedroom on Ground Floor, More than One Master Bedroom on Ground Floor",OTHER
+"More than One Bedroom on Ground Floor, More than One Master Bedroom",OTHER
+"More than One Bedroom on Ground Floor, Reverse Floor Plan",OTHER
+"Master Bedroom on Ground Floor, Master Suite / Retreate - 2+",OTHER
+"Walk-in Closet, Reverse Floor Plan",OTHER
+"Ground Floor Bedroom, Loft Bedroom",OTHER
+"Ground Floor Bedroom, Reverse Floor Plan",OTHER
+"Loft Bedroom, Master Bedroom on Ground Floor",OTHER
+"More than One Bedroom on Ground Floor, More than One Master Bedroom on Ground Floor",OTHER
+"Master Suite / Retreat, Reverse Floor Plan",OTHER
+"Ground Floor Bedroom, Inverted Floor Plan",OTHER
+"Ground Floor Bedroom, More than One Master Bedroom on Ground Floor",OTHER
+"Inverted Floor Plan, More than One Bedroom on Ground Floor",OTHER
+"Master Bedroom on Ground Floor, Reverse Floor Plan",OTHER
+"Master Suite / Retreat, Master Suite / Retreate - 2+",OTHER
+"Master Suite / Retreat, More than One Master Bedroom on Ground Floor",OTHER
+"Master Suite / Retreate - 2+, More than One Master Bedroom on Ground Floor",OTHER
+"More than One Bedroom on Ground Floor, Master Suite / Retreate - 2+",OTHER
+"More than One Master Bedroom, More than One Master Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Master Suite / Retreat, Walk-in Closet",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor",OTHER
+"Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor, Walk-in Closet",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, Walk-in Closet",OTHER
+"Master Suite / Retreat, More than One Bedroom on Ground Floor, Walk-in Closet",OTHER
+"Master Bedroom on Ground Floor, Master Suite / Retreat, More than One Bedroom on Ground Floor",OTHER
+"Master Bedroom on Ground Floor, Master Suite / Retreat, Walk-in Closet",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, Master Suite / Retreat",OTHER
+"Ground Floor Bedroom, More than One Bedroom on Ground Floor, Walk-in Closet",OTHER
+"Ground Floor Bedroom, Walk-in Closet, Master Suite / Retreate - 2+",OTHER
+"Master Suite / Retreat, Walk-in Closet, More than One Master Bedroom",OTHER
+"Ground Floor Bedroom, Walk-in Closet, More than One Master Bedroom",OTHER
+"Ground Floor Bedroom, Master Suite / Retreat, More than One Bedroom on Ground Floor",OTHER
+"Walk-in Closet, More than One Master Bedroom, Master Suite / Retreate - 2+",OTHER
+"Master Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom",OTHER
+"Loft Bedroom, Master Suite / Retreat, Walk-in Closet",OTHER
+"Master Bedroom on Ground Floor, Walk-in Closet, Master Suite / Retreate - 2+",OTHER
+"Master Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, More than One Master Bedroom",OTHER
+"Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor, More than One Master Bedroom",OTHER
+"Master Bedroom on Ground Floor, More than One Master Bedroom, Master Suite / Retreate - 2+",OTHER
+"Ground Floor Bedroom, Loft Bedroom, Walk-in Closet",OTHER
+"Ground Floor Bedroom, More than One Bedroom on Ground Floor, Reverse Floor Plan",OTHER
+"Master Suite / Retreat, Walk-in Closet, Master Suite / Retreate - 2+",OTHER
+"More than One Bedroom on Ground Floor, Walk-in Closet, Master Suite / Retreate - 2+",OTHER
+"Ground Floor Bedroom, Master Suite / Retreat, More than One Master Bedroom",OTHER
+"Ground Floor Bedroom, More than One Bedroom on Ground Floor, More than One Master Bedroom",OTHER
+"Master Suite / Retreat, Walk-in Closet, Reverse Floor Plan",OTHER
+"More than One Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, More than One Master Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, Reverse Floor Plan",OTHER
+"Ground Floor Bedroom, Master Suite / Retreat, Master Suite / Retreate - 2+",OTHER
+"Ground Floor Bedroom, More than One Master Bedroom, Master Suite / Retreate - 2+",OTHER
+"Ground Floor Bedroom, Walk-in Closet, More than One Master Bedroom on Ground Floor",OTHER
+"Inverted Floor Plan, Master Bedroom on Ground Floor, Master Suite / Retreat",OTHER
+"Inverted Floor Plan, Walk-in Closet, Reverse Floor Plan",OTHER
+"Loft Bedroom, Walk-in Closet, More than One Master Bedroom",OTHER
+"Master Bedroom on Ground Floor, Master Suite / Retreat, More than One Master Bedroom",OTHER
+"Master Bedroom on Ground Floor, Master Suite / Retreat, More than One Master Bedroom on Ground Floor",OTHER
+"Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor, Master Suite / Retreate - 2+",OTHER
+"Master Suite / Retreat, More than One Bedroom on Ground Floor, Reverse Floor Plan",OTHER
+"More than One Bedroom on Ground Floor, Master Suite / Retreate - 2+, More than One Master Bedroom on Ground Floor",OTHER
+"More than One Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom on Ground Floor",OTHER
+"More than One Bedroom on Ground Floor, Walk-in Closet, Reverse Floor Plan",OTHER
+"Walk-in Closet, Master Suite / Retreate - 2+, More than One Master Bedroom on Ground Floor",OTHER
+"Walk-in Closet, More than One Master Bedroom, More than One Master Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Inverted Floor Plan, More than One Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Loft Bedroom, Master Suite / Retreat",OTHER
+"Ground Floor Bedroom, Loft Bedroom, More than One Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Loft Bedroom, More than One Master Bedroom",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, Master Suite / Retreate - 2+",OTHER
+"Ground Floor Bedroom, More than One Bedroom on Ground Floor, More than One Master Bedroom on Ground Floor",OTHER
+"Inverted Floor Plan, Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor",OTHER
+"Inverted Floor Plan, Master Suite / Retreat, More than One Bedroom on Ground Floor",OTHER
+"Loft Bedroom, Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor",OTHER
+"Loft Bedroom, Master Suite / Retreat, More than One Bedroom on Ground Floor",OTHER
+"Loft Bedroom, More than One Bedroom on Ground Floor, Master Suite / Retreate - 2+",OTHER
+"Loft Bedroom, Walk-in Closet, Master Suite / Retreate - 2+",OTHER
+"Loft Bedroom, Walk-in Closet, More than One Master Bedroom on Ground Floor",OTHER
+"Master Bedroom on Ground Floor, Master Suite / Retreat, Reverse Floor Plan",OTHER
+"Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor, More than One Master Bedroom on Ground Floor",OTHER
+"Master Bedroom on Ground Floor, More than One Master Bedroom, More than One Master Bedroom on Ground Floor",OTHER
+"Master Suite / Retreat, More than One Master Bedroom, Master Suite / Retreate - 2+",OTHER
+"More than One Master Bedroom, Master Suite / Retreate - 2+, More than One Master Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor, Walk-in Closet",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, Master Suite / Retreat, More than One Bedroom on Ground Floor",OTHER
+"Master Bedroom on Ground Floor, Master Suite / Retreat, More than One Bedroom on Ground Floor, Walk-in Closet",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, Master Suite / Retreat, Walk-in Closet",OTHER
+"Ground Floor Bedroom, Master Suite / Retreat, More than One Bedroom on Ground Floor, Walk-in Closet",OTHER
+"Ground Floor Bedroom, Master Suite / Retreat, Walk-in Closet, More than One Master Bedroom",OTHER
+"Master Bedroom on Ground Floor, Master Suite / Retreat, Walk-in Closet, More than One Master Bedroom",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom",OTHER
+"Ground Floor Bedroom, Walk-in Closet, More than One Master Bedroom, Master Suite / Retreate - 2+",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, Walk-in Closet, Master Suite / Retreate - 2+",OTHER
+"Ground Floor Bedroom, More than One Bedroom on Ground Floor, Walk-in Closet, Master Suite / Retreate - 2+",OTHER
+"Ground Floor Bedroom, Master Suite / Retreat, Walk-in Closet, Master Suite / Retreate - 2+",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom on Ground Floor",OTHER
+"Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor, Walk-in Closet, Master Suite / Retreate - 2+",OTHER
+"Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom",OTHER
+"Master Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom, Master Suite / Retreate - 2+",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, Master Suite / Retreat, More than One Master Bedroom",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor, Master Suite / Retreate - 2+",OTHER
+"Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Loft Bedroom, Master Suite / Retreat, Walk-in Closet",OTHER
+"Ground Floor Bedroom, Loft Bedroom, More than One Bedroom on Ground Floor, Walk-in Closet",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor, More than One Master Bedroom",OTHER
+"Ground Floor Bedroom, More than One Bedroom on Ground Floor, Walk-in Closet, Reverse Floor Plan",OTHER
+"Loft Bedroom, Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor, Walk-in Closet",OTHER
+"Master Suite / Retreat, More than One Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom",OTHER
+"Master Suite / Retreat, More than One Bedroom on Ground Floor, Walk-in Closet, Reverse Floor Plan",OTHER
+"Master Suite / Retreat, Walk-in Closet, More than One Master Bedroom, Master Suite / Retreate - 2+",OTHER
+"More than One Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom, Master Suite / Retreate - 2+",OTHER
+"Ground Floor Bedroom, Inverted Floor Plan, Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Inverted Floor Plan, Master Bedroom on Ground Floor, More than One Master Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Inverted Floor Plan, Master Bedroom on Ground Floor, Walk-in Closet",OTHER
+"Ground Floor Bedroom, Inverted Floor Plan, More than One Bedroom on Ground Floor, Walk-in Closet",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, Master Suite / Retreat, Reverse Floor Plan",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor, More than One Master Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor, Reverse Floor Plan",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, More than One Master Bedroom, More than One Master Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Master Suite / Retreat, More than One Bedroom on Ground Floor, More than One Master Bedroom",OTHER
+"Ground Floor Bedroom, Master Suite / Retreat, More than One Bedroom on Ground Floor, More than One Master Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Master Suite / Retreat, Walk-in Closet, More than One Master Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, More than One Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom",OTHER
+"Ground Floor Bedroom, Walk-in Closet, More than One Master Bedroom, Reverse Floor Plan",OTHER
+"Inverted Floor Plan, Loft Bedroom, Master Suite / Retreat, Walk-in Closet",OTHER
+"Inverted Floor Plan, Master Bedroom on Ground Floor, Master Suite / Retreat, Walk-in Closet",OTHER
+"Inverted Floor Plan, Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor, More than One Master Bedroom",OTHER
+"Loft Bedroom, Master Suite / Retreat, More than One Bedroom on Ground Floor, Walk-in Closet",OTHER
+"Master Bedroom on Ground Floor, Master Suite / Retreat, More than One Master Bedroom, Master Suite / Retreate - 2+",OTHER
+"Master Bedroom on Ground Floor, Master Suite / Retreat, Walk-in Closet, More than One Master Bedroom on Ground Floor",OTHER
+"Master Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom, More than One Master Bedroom on Ground Floor",OTHER
+"Master Suite / Retreat, Walk-in Closet, Master Suite / Retreate - 2+, More than One Master Bedroom on Ground Floor",OTHER
+"Master Suite / Retreat, Walk-in Closet, More than One Master Bedroom on Ground Floor, Reverse Floor Plan",OTHER
+"Master Suite / Retreat, Walk-in Closet, More than One Master Bedroom, More than One Master Bedroom on Ground Floor",OTHER
+"More than One Bedroom on Ground Floor, Walk-in Closet, Master Suite / Retreate - 2+, More than One Master Bedroom on Ground Floor",OTHER
+"More than One Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom, More than One Master Bedroom on Ground Floor",OTHER
+"Walk-in Closet, More than One Master Bedroom, Master Suite / Retreate - 2+, More than One Master Bedroom on Ground Floor",OTHER
+"Walk-in Closet, More than One Master Bedroom, Master Suite / Retreate - 2+, Reverse Floor Plan",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, Master Suite / Retreat, More than One Bedroom on Ground Floor, Walk-in Closet",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom, Master Suite / Retreate - 2+",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, Master Suite / Retreat, Walk-in Closet, More than One Master Bedroom",OTHER
+"Ground Floor Bedroom, Master Suite / Retreat, More than One Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom",OTHER
+"Ground Floor Bedroom, More than One Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom, Master Suite / Retreate - 2+",OTHER
+"Master Bedroom on Ground Floor, Master Suite / Retreat, More than One Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom",OTHER
+"Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom, Master Suite / Retreate - 2+",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor, Walk-in Closet, Reverse Floor Plan",OTHER
+"Ground Floor Bedroom, Master Suite / Retreat, More than One Bedroom on Ground Floor, Walk-in Closet, Master Suite / Retreate - 2+",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, Master Suite / Retreat, Walk-in Closet, More than One Master Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, Walk-in Closet, Master Suite / Retreate - 2+, More than One Master Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Master Suite / Retreat, More than One Bedroom on Ground Floor, Walk-in Closet, Reverse Floor Plan",OTHER
+"Master Bedroom on Ground Floor, Master Suite / Retreat, More than One Bedroom on Ground Floor, Master Suite / Retreate - 2+, More than One Master Bedroom on Ground Floor",OTHER
+"Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor, Walk-in Closet, Master Suite / Retreate - 2+, More than One Master Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Inverted Floor Plan, Master Bedroom on Ground Floor, Master Suite / Retreat, Walk-in Closet",OTHER
+"Ground Floor Bedroom, Inverted Floor Plan, Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor, Walk-in Closet",OTHER
+"Ground Floor Bedroom, Inverted Floor Plan, Master Suite / Retreat, Master Suite / Retreate - 2+, Reverse Floor Plan",OTHER
+"Ground Floor Bedroom, Loft Bedroom, Master Bedroom on Ground Floor, Master Suite / Retreat, More than One Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Loft Bedroom, Master Bedroom on Ground Floor, Master Suite / Retreat, Walk-in Closet",OTHER
+"Ground Floor Bedroom, Loft Bedroom, Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor, Walk-in Closet",OTHER
+"Ground Floor Bedroom, Loft Bedroom, Master Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom",OTHER
+"Ground Floor Bedroom, Loft Bedroom, Master Suite / Retreat, More than One Bedroom on Ground Floor, Walk-in Closet",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, Master Suite / Retreat, Master Suite / Retreate - 2+, More than One Master Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, Master Suite / Retreat, More than One Bedroom on Ground Floor, More than One Master Bedroom",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, Master Suite / Retreat, Walk-in Closet, Master Suite / Retreate - 2+",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor, More than One Master Bedroom, More than One Master Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor, Walk-in Closet, Master Suite / Retreate - 2+",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom",OTHER
+"Ground Floor Bedroom, Master Suite / Retreat, More than One Bedroom on Ground Floor, More than One Master Bedroom, Reverse Floor Plan",OTHER
+"Ground Floor Bedroom, Master Suite / Retreat, Walk-in Closet, More than One Master Bedroom, Master Suite / Retreate - 2+",OTHER
+"Loft Bedroom, Master Bedroom on Ground Floor, Master Suite / Retreat, More than One Bedroom on Ground Floor, Walk-in Closet",OTHER
+"Loft Bedroom, More than One Bedroom on Ground Floor, Walk-in Closet, Master Suite / Retreate - 2+, More than One Master Bedroom on Ground Floor",OTHER
+"Master Bedroom on Ground Floor, Master Suite / Retreat, Walk-in Closet, More than One Master Bedroom, Master Suite / Retreate - 2+",OTHER
+"Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom, More than One Master Bedroom on Ground Floor",OTHER
+"More than One Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom, Master Suite / Retreate - 2+, More than One Master Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom, Master Suite / Retreate - 2+",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, Master Suite / Retreat, More than One Bedroom on Ground Floor, Walk-in Closet, Master Suite / Retreate - 2+",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, Master Suite / Retreat, More than One Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom, More than One Master Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Inverted Floor Plan, Master Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom, Master Suite / Retreate - 2+",OTHER
+"Ground Floor Bedroom, Loft Bedroom, Master Bedroom on Ground Floor, Master Suite / Retreat, More than One Bedroom on Ground Floor, Walk-in Closet",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, Master Suite / Retreat, More than One Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, Master Suite / Retreat, Walk-in Closet, More than One Master Bedroom, Master Suite / Retreate - 2+",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor, More than One Master Bedroom, Master Suite / Retreate - 2+, More than One Master Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom, Master Suite / Retreate - 2+, More than One Master Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, Master Suite / Retreat, More than One Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom, Master Suite / Retreate - 2+",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, Master Suite / Retreat, More than One Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom, More than One Master Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, Master Suite / Retreat, More than One Bedroom on Ground Floor, More than One Master Bedroom, Master Suite / Retreate - 2+, More than One Master Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, Master Suite / Retreat, Walk-in Closet, More than One Master Bedroom, Master Suite / Retreate - 2+, More than One Master Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, More than One Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom, Master Suite / Retreate - 2+, More than One Master Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Master Suite / Retreat, More than One Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom, Master Suite / Retreate - 2+, More than One Master Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Master Bedroom on Ground Floor, Master Suite / Retreat, More than One Bedroom on Ground Floor, Walk-in Closet, More than One Master Bedroom, Master Suite / Retreate - 2+, More than One Master Bedroom on Ground Floor",OTHER
+"Ground Floor Bedroom, Loft Bedroom, Master Bedroom on Ground Floor, Master Suite / Retreat, More than One Bedroom on Ground Floor, Walk-in Closet, Master Suite / Retreate - 2+, More than One Master Bedroom on Ground Floor",OTHER

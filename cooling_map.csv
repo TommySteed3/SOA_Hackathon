@@ -1,0 +1,262 @@
+cooling_features,cooling.map
+,-1
+Buyer To Verify,-1
+Fan/mini Splits,-1
+Gas,-1
+Heat Pump,-1
+"Heat Pump, 2 Units",-1
+Other,-1
+See Remarks,-1
+"See Remarks, Attic Fan",-1
+Solar,-1
+AC Central,1
+"AC Central, 2-units",1
+"AC Central, AC Wall, AC Zoned, Ceiling Fans Pre-Wired",1
+"AC Central, AC Wall, Ceiling Fans",1
+"AC Central, AC Zoned",1
+"AC Central, AC Zoned, Ceiling Fans Pre-Wired, Two Ac",1
+"AC Central, AC Zoned, Ceiling Fans, 2 Cooling Units",1
+"AC Central, AC Zoned, Ceiling Fans, Dual Cooling",1
+"AC Central, Ceiling Fans",1
+"AC Central, Ceiling Fans Pre-Wired",1
+"AC Central, Ceiling Fans Pre-Wired, Heat Pump",1
+"AC Central, Ceiling Fans, Dual Cooling, Heat Pump",1
+"AC Central, Ceiling Fans, Energy Star Qualified Equipment",1
+"AC Central, Ceiling Fans, Evap Central, Heat Pump",1
+"AC Central, Ceiling Fans, Heat Pump",1
+"AC Central, Ceiling Fans, Heat Pump, Evap Guest House",1
+"AC Central, Ceiling Fans, Mini-split In Famrm",1
+"AC Central, Ceiling Fans, Mini Split",1
+"AC Central, Ceiling Fans, Minisplit",1
+"AC Central, Dual Cooling",1
+"AC Central, Energy Star Qualified Equipment",1
+"AC Central, Evap Central",1
+"AC Central, Evap Zone",1
+"AC Central, Gas Pac",1
+"AC Central, Heat Pump",1
+"AC Central, Heat Pump, 2 Ac Central Units",1
+AC Wall,1
+"AC Wall, Ceiling Fans",1
+"AC Wall, Ceiling Fans, Evap Central",1
+"AC Wall, Evap Central",1
+"AC Zoned, Ceiling Fans",1
+"AC Zoned, Ceiling Fans, 3 Units",1
+"AC Zoned, Ceiling Fans, Heat Pump",1
+"AC Zoned, Heat Pump",1
+"Ceiling Fan(s), Central Air",1
+"Ceiling Fan(s), Central Air, Attic Fan",1
+"Ceiling Fan(s), Central Air, ENERGY STAR Qualified Equipment",1
+"Ceiling Fan(s), Central Air, Other",1
+"Ceiling Fan(s), Central Air, Wall/Window Unit(s)",1
+"Ceiling Fan(s), Central Air, Whole House Fan",1
+"Ceiling Fan(s), Room Air",1
+"Ceiling Fans, Ac Combo",1
+Central,1
+Central Air,1
+"Central Air, Attic Fan",1
+"Central Air, Ceiling Fan(s)",1
+"Central Air, Dual",1
+"Central Air, Dual, Electric",1
+"Central Air, Dual, Electric, Gas",1
+"Central Air, Dual, Electric, Zoned",1
+"Central Air, Dual, Evaporative Cooling, Gas",1
+"Central Air, Dual, Gas",1
+"Central Air, Dual, Heat Pump",1
+"Central Air, Dual, See Remarks",1
+"Central Air, Dual, Whole House Fan, Attic Fan",1
+"Central Air, Dual, Zoned",1
+"Central Air, Dual, Zoned, Electric",1
+"Central Air, Dual, Zoned, ENERGY STAR Qualified Equipment, High Efficiency, See Remarks",1
+"Central Air, Dual, Zoned, Gas",1
+"Central Air, Dual, Zoned, Whole House Fan",1
+"Central Air, Electric",1
+"Central Air, Electric, Attic Fan",1
+"Central Air, Electric, ENERGY STAR Qualified Equipment",1
+"Central Air, Electric, ENERGY STAR Qualified Equipment, See Remarks",1
+"Central Air, Electric, Gas",1
+"Central Air, Electric, Gas, ENERGY STAR Qualified Equipment, High Efficiency",1
+"Central Air, Electric, Gas, ENERGY STAR Qualified Equipment, High Efficiency, Attic Fan",1
+"Central Air, Electric, Gas, ENERGY STAR Qualified Equipment, High Efficiency, SEER Rated 13-15",1
+"Central Air, Electric, Heat Pump",1
+"Central Air, Electric, High Efficiency",1
+"Central Air, Electric, See Remarks",1
+"Central Air, Electric, Zoned",1
+"Central Air, ENERGY STAR Qualified Equipment",1
+"Central Air, ENERGY STAR Qualified Equipment, High Efficiency",1
+"Central Air, ENERGY STAR Qualified Equipment, High Efficiency, See Remarks",1
+"Central Air, Evaporative Cooling",1
+"Central Air, Evaporative Cooling, Electric",1
+"Central Air, Gas",1
+"Central Air, Gas, Attic Fan",1
+"Central Air, Gas, Electric",1
+"Central Air, Gas, ENERGY STAR Qualified Equipment",1
+"Central Air, Gas, ENERGY STAR Qualified Equipment, High Efficiency",1
+"Central Air, Gas, High Efficiency",1
+"Central Air, Gas, High Efficiency, SEER Rated 13-15",1
+"Central Air, Gas, None",1
+"Central Air, Gas, SEER Rated 13-15",1
+"Central Air, Gas, Zoned",1
+"Central Air, Heat Pump",1
+"Central Air, Heat Pump, Electric",1
+"Central Air, Heat Pump, Electric, Gas, High Efficiency",1
+"Central Air, Heat Pump, Whole House Fan, ENERGY STAR Qualified Equipment, High Efficiency",1
+"Central Air, High Efficiency",1
+"Central Air, High Efficiency, SEER Rated 16+",1
+"Central Air, Humidity Control",1
+"Central Air, Humidity Control, ENERGY STAR Qualified Equipment",1
+"Central Air, None",1
+"Central Air, Other",1
+"Central Air, Room Air",1
+"Central Air, Room Air, Attic Fan",1
+"Central Air, See Remarks",1
+"Central Air, SEER Rated 13-15",1
+"Central Air, SEER Rated 16+",1
+"Central Air, Wall/Window Unit(s)",1
+"Central Air, Wall/Window Unit(s), Electric",1
+"Central Air, Wall/Window Unit(s), Evaporative Cooling",1
+"Central Air, Wall/Window Unit(s), Evaporative Cooling, Humidity Control, Whole House Fan, Electric, Gas, ENERGY STAR Qualified Equipment, High Efficiency",1
+"Central Air, Wall/Window Unit(s), See Remarks",1
+"Central Air, Whole House Fan",1
+"Central Air, Whole House Fan, Electric",1
+"Central Air, Whole House Fan, ENERGY STAR Qualified Equipment",1
+"Central Air, Whole House Fan, Gas, Attic Fan",1
+"Central Air, Window Unit(s)",1
+"Central Air, Zoned",1
+"Central Air, Zoned, Electric",1
+"Central Air, Zoned, ENERGY STAR Qualified Equipment",1
+"Central Air, Zoned, Gas, High Efficiency",1
+"Central Air, Zoned, New Construction Option",1
+"Central Air, Zoned, See Remarks",1
+"Central Air, Zoned, Whole House Fan, Attic Fan",1
+Central Air/Evap,1
+Central Air/Refrig,1
+"Central, Evaporative",1
+"Central, Evaporative, Wall",1
+"Central, Geothermal, Solar",1
+"Central, Other",1
+"Central, Other, Solar",1
+"Central, Other, Wall",1
+"Central, Solar",1
+"Central, Solar, Wall",1
+"Central, Wall",1
+Dual,1
+"Dual, Central Air",1
+"Dual, Electric, ENERGY STAR Qualified Equipment",1
+"Dual, Electric, See Remarks",1
+"Dual, Heat Pump",1
+"Dual, Heat Pump, Electric",1
+"Dual, High Efficiency",1
+"Dual, Wall/Window Unit(s)",1
+"Dual, Zoned",1
+Electric,1
+"Electric, Central Air",1
+"Electric, Gas",1
+"Electric, Heat Pump",1
+"Electric, Heat Pump, Central Air",1
+"Electric, High Efficiency",1
+"Electric, See Remarks, Attic Fan",1
+"Electric, Wall/Window Unit(s)",1
+ENERGY STAR Qualified Equipment,1
+"ENERGY STAR Qualified Equipment, See Remarks",1
+"Heat Pump, Central Air",1
+"Heat Pump, Central Air, Zoned, Dual",1
+"Refrigerator, Central",1
+"Refrigerator, Central, Geothermal, Other",1
+"Refrigerator, Central, Other",1
+"Refrigerator, Central, Solar",1
+"Refrigerator, Central, Solar, Wall",1
+"Refrigerator, Central, Wall",1
+"Refrigerator, Other",1
+"Wall/Window Unit(s), Central Air",1
+"Wall/Window Unit(s), Evaporative Cooling, Central Air",1
+Ceiling Fan(s),2
+"Ceiling Fan(s), ENERGY STAR Qualified Equipment",2
+"Ceiling Fan(s), No Air Conditioning",2
+"Ceiling Fan(s), No Air Conditioning, Whole House Fan",2
+"Ceiling Fan(s), None",2
+"Ceiling Fan(s), Wall/Window Unit(s)",2
+"Ceiling Fan(s), Whole House Fan",2
+"Ceiling Fan(s), Zoned",2
+Ceiling Fans,2
+"Ceiling Fans Pre-Wired, Heat Pump",2
+"Ceiling Fans, Ceiling Fans Pre-Wired, Heat Pump",2
+"Ceiling Fans, Evap Central",2
+"Ceiling Fans, Heat Pump",2
+"Ceiling Fans, Heat Pump, 2 Mini-splits",2
+Cooling,2
+Evap Central,2
+"Evap Central, Evap Zone",2
+"Evap Central, Master Cooler",2
+Evap Window,2
+Evaporative,2
+Evaporative Cooling,2
+"Evaporative Cooling, Electric",2
+"Evaporative Cooling, Electric, See Remarks, Attic Fan",2
+"Evaporative Cooling, See Remarks",2
+"Evaporative Cooling, Wall/Window Unit(s)",2
+"Evaporative Cooling, Whole House Fan",2
+"Evaporative Cooling, Whole House Fan, See Remarks",2
+"Evaporative, Other",2
+"Evaporative, Solar",2
+"Evaporative, Wall",2
+No Air Conditioning,2
+"No Air Conditioning, None",2
+"No Air Conditioning, Other",2
+None,2
+"None, Attic Fan",2
+"None, Ceiling Fan(s)",2
+"None, Central",2
+"None, ENERGY STAR Qualified Equipment",2
+"None, Evaporative",2
+"None, Other",2
+"None, See Remarks",2
+"None, Wall",2
+"Other, None",2
+"Other, Solar",2
+"Other, Wall",2
+"Other, Wall/Window Unit(s)",2
+Refrigerator,2
+"Refrigerator, Solar",2
+"Refrigerator, Wall",2
+Room Air,2
+Wall,2
+Wall/Window Unit(s),2
+"Wall/Window Unit(s), Attic Fan",2
+"Wall/Window Unit(s), Dual",2
+"Wall/Window Unit(s), Electric",2
+"Wall/Window Unit(s), Electric, Gas",2
+"Wall/Window Unit(s), Evaporative Cooling",2
+"Wall/Window Unit(s), Evaporative Cooling, See Remarks",2
+"Wall/Window Unit(s), Gas",2
+"Wall/Window Unit(s), Heat Pump",2
+"Wall/Window Unit(s), High Efficiency, See Remarks",2
+"Wall/Window Unit(s), None",2
+"Wall/Window Unit(s), See Remarks",2
+"Wall/Window Unit(s), SEER Rated 13-15",2
+"Wall/Window Unit(s), Whole House Fan",2
+Whole House Fan,2
+"Whole House Fan, Attic Fan",2
+Window Unit(s),2
+Zoned,2
+"Zoned, Attic Fan",2
+"Zoned, Dual",2
+"Zoned, Electric",2
+"Zoned, Electric, High Efficiency",2
+"Zoned, ENERGY STAR Qualified Equipment",2
+"Zoned, Heat Pump",2
+"Zoned, Heat Pump, Electric, ENERGY STAR Qualified Equipment, High Efficiency, SEER Rated 16+, See Remarks",2
+"Zoned, High Efficiency",2
+"Zoned, Wall/Window Unit(s)",2
+"Zoned, Wall/Window Unit(s), Electric, High Efficiency",2
+"Zoned, Whole House Fan",2
+Attic Fan,2
+Geothermal,3
+"Geothermal, Wall",3
+"Heat Pump, Electric",3
+"Heat Pump, Multi Units, Other, See Remarks",3
+"Heat Pump, SEER Rated 16+",3
+"Heat Pump, Wall/Window Unit(s), Zoned",3
+High Efficiency,3
+"High Efficiency, See Remarks",3
+Mini-split Master,3
+Mini Split,3
